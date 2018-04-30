@@ -2,4 +2,4 @@
 
 CSCI 4760 - Computer Networks
 
-Developing a multi-threaded webserver in Java
+Developing a multithreaded webserver in Java
