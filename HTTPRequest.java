@@ -12,7 +12,6 @@ import java.util.*;
 /**
  *
  * @author aaron
- * @UGA ID: 810379273
  */
 final class HttpRequest implements Runnable {
     final static String CRLF = "\r\n";
