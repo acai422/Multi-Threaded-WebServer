@@ -8,7 +8,6 @@ package webserver;
 /**
  *
  * @author aaron
- * @UGA ID: 810379273
  */
 
 import java.io.*;
