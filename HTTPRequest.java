@@ -9,7 +9,7 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
-/**
+/*
  * @author aaron
  */
 final class HttpRequest implements Runnable {
